@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shagun-1sharma-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shagun sharma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shagun sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shagun sharma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20595884/shagun-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shagun sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shagun16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shagun16" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shagu22222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shagu22222" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shagun1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shagun1611" height="30" width="40" /></a>
