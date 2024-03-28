@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shagun Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India. Eager to learn new technologies.</h3>
 
@@ -6,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun1611" alt="shagun1611" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="coding" width="300px" src="https://www.aictsd.com/wp-content/uploads/2023/02/Student-on-computer-gif1.gif">
 
 - 🔭 I’m currently working on [Travelling Website](https://shagun1611.github.io/Mind-Bender_KOC11_CipherSchools/)
 
