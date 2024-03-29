@@ -1,8 +1,7 @@
 
-<img  align="center" alt="coding" width="300px" src="https://www.aictsd.com/wp-content/uploads/2023/02/Student-on-computer-gif1.gif">
-<h2>👋 Hello,I'am Shagun Sharma</h2>
-
-
+<p align="center"><img alt="coding" width="300px" src="https://www.aictsd.com/wp-content/uploads/2023/02/Student-on-computer-gif1.gif"></p>
+<h1 align="center">👋 Hello,I'am Shagun Sharma</h1>
+<br>
 
 # 💫 About Me:
 🔭 I am currently working on Web Development<br>🔮 I aspire to be a Full Stack Developer<br>💬 Ask me about Computer System & tech.<br>👯 I’m looking to collaborate on MERN Stack<br>⚡ Fun fact "Coding: A Hobby Turned into Career"
